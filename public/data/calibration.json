@@ -1,0 +1,25 @@
+{
+  "anchors": [
+    {
+      "name": "Northwest corner",
+      "latitude": "8.695713",
+      "longitude": " 77.748094"
+    },
+    {
+      "name": "Northeast corner",
+      "latitude": "8.695159",
+      "longitude": "77.752318"
+    },
+    {
+      "name": "Southeast corner",
+      "latitude": "8.691451",
+      "longitude": " 77.752070"
+    },
+    {
+      "name": "Southwest corner",
+      "latitude": "8.691825",
+      "longitude": "77.749424"
+    }
+  ],
+  "updatedAt": "2026-08-23T08:13:06.791Z"
+}
